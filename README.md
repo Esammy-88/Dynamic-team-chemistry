@@ -76,7 +76,7 @@ Coming soon: I plan to open-source more features like:
 - Teammate conflict resolution
 - Save/load state management
 
-Feel free to fork and play around with the code. PRs welcome once base implementation stabilizes!
+Feel free to play around with the code. PRs welcome once base implementation stabilizes!
 
 ---
 
